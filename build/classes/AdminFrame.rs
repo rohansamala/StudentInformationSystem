@@ -1,0 +1,4 @@
+studentinformationsystem.AdminFrame$1
+studentinformationsystem.AdminFrame$2
+studentinformationsystem.AdminFrame$3
+studentinformationsystem.AdminFrame

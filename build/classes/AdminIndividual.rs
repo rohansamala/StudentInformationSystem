@@ -1,0 +1,11 @@
+studentinformationsystem.AdminIndividual$10
+studentinformationsystem.AdminIndividual$1
+studentinformationsystem.AdminIndividual$4
+studentinformationsystem.AdminIndividual$5
+studentinformationsystem.AdminIndividual$2
+studentinformationsystem.AdminIndividual$3
+studentinformationsystem.AdminIndividual$8
+studentinformationsystem.AdminIndividual$9
+studentinformationsystem.AdminIndividual$6
+studentinformationsystem.AdminIndividual
+studentinformationsystem.AdminIndividual$7

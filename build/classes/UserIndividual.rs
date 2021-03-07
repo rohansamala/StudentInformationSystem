@@ -1,0 +1,9 @@
+studentinformationsystem.UserIndividual$6
+studentinformationsystem.UserIndividual
+studentinformationsystem.UserIndividual$7
+studentinformationsystem.UserIndividual$8
+studentinformationsystem.UserIndividual$2
+studentinformationsystem.UserIndividual$3
+studentinformationsystem.UserIndividual$4
+studentinformationsystem.UserIndividual$5
+studentinformationsystem.UserIndividual$1

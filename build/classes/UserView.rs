@@ -1,0 +1,7 @@
+studentinformationsystem.UserView$1
+studentinformationsystem.UserView$3
+studentinformationsystem.UserView$2
+studentinformationsystem.UserView$5
+studentinformationsystem.UserView$4
+studentinformationsystem.UserView
+studentinformationsystem.UserView$6
